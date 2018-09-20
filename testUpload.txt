@@ -1,1 +1,16 @@
 access to everybody
+
+git clone https://github.com/cexpertise/TestGit.git 
+to clone to local directory
+
+git add testUpload.txt
+to add file in repository
+
+git status 
+to check the status
+
+git commit -m "git bash" testUpload.txt
+to commit
+
+git push -u origin master
+to push files to github
