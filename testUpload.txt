@@ -12,5 +12,7 @@ to check the status
 git commit -m "git bash" testUpload.txt
 to commit
 
+
 git push -u origin master
 to push files to github
+
